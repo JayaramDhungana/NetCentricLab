@@ -1,0 +1,7 @@
+lab 1 ma chai basic c sharp setup ho. yo setup garna
+C drive->windows->Microsoft.Net-> framework->v4 wala path copy-> Enviromental variable open->system variable ma path ma 
+click-> edit open-> New ma click ani paste there.-> then press ok
+..........................cmd......................
+press csc to check whether setuped or not.
+type csc HelloWorld.csc to compile
+type HelloWorld or HelloWorld.exe to execute.
